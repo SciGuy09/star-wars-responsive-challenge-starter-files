@@ -1,0 +1,45 @@
+div.row
+{
+	margin-top: 20px;
+}
+
+nav.top-nav-bar
+{
+	top: 0;
+	margin: 0px;
+	padding: 15px 0px;
+	width: 100%;
+	background-color: #f4bf42;
+}
+
+nav.top-nav-bar h1
+{
+	margin: 0px;
+}
+
+nav.top-nav-bar p
+{
+	margin: 0px;
+}
+
+div.card
+{
+	border: 1px solid black;
+	float: left;
+}
+
+div.card .name
+{
+	font-weight: bold;
+	margin-left: 10%;
+}
+
+div.card .class
+{
+	margin-left: 10%;
+}
+
+div.card img
+{
+	width: 100%;
+}
